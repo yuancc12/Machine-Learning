@@ -33,7 +33,8 @@
 + [Homework0](https://www.csie.ntu.edu.tw/~htlin/course/ml24fall/doc/hw0.pdf)
 # 課堂PPT
 + [第一週](https://www.csie.ntu.edu.tw/~htlin/course/ml24fall/doc/01u_handout.pdf)
-+ [第二週]()
++ [第二週-1](https://www.csie.ntu.edu.tw/~htlin/course/ml24fall/doc/02u_handout.pdf)
++ [第二週-2](https://www.csie.ntu.edu.tw/~htlin/course/ml24fall/doc/03u_handout.pdf)
 + [第三週]()
 + [第四週]()
 + [第五週]()
