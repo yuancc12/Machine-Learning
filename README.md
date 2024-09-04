@@ -21,7 +21,7 @@
 **主修**：[科技應用與人力資源發展學系](https://www.tahrd.ntnu.edu.tw/)\
 **雙主修**：[學習科學學士學位學程](https://www.upls.ntnu.edu.tw/)\
 **學分學程**：商業分析學分學程\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;數位人文藝術學分學程（修畢）\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;數位人文藝術學分學程\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;資訊科技應用學分學程（修畢）\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;學習資訊專業學分學程（在修）\
 **系級**：科技系四年級乙班\
